@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maggnun
-- 👀 I’m interested in Video Game Dev,3D modelling and machine learning 
-- 🌱 I’m currently learning C++,Dart/Flutter and View.js
-- 💞️ I’m looking to collaborate on mostly video game dev 
+- 👀 I’m interested in Web Dev ,Video Game Dev,3D modelling and machine learning 
+- 🌱 I use mainly react.Js and node.Js
+- 💞️ I’m looking to collaborate on mostly Web Dev 
 - 📫 How to reach me here on github or on my twitter @axiro12
 
 <!---
